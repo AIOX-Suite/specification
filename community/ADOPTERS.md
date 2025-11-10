@@ -84,7 +84,7 @@ We're working with early adopters to create detailed case studies showing:
 - Best practices learned
 - ROI analysis
 
-**Interested in being featured?** Email: hello@aiox.io
+**Interested in being featured?** Email: hello@aioxsuite.com
 
 ---
 
@@ -133,7 +133,7 @@ We love showcasing AIOX implementations! Here's how to add yours:
 
 ### Option 3: Email Us
 
-Send details to: hello@aiox.io with subject "AIOX Adopter Submission"
+Send details to: hello@aioxsuite.com with subject "AIOX Adopter Submission"
 
 ---
 
@@ -174,22 +174,22 @@ Show you're an AIOX adopter! Add this badge to your site:
 
 **Standard Badge:**
 ```html
-<a href="https://aiox.io">
-  <img src="https://aiox.io/badge/adopter.svg" alt="AIOX Adopter" />
+<a href="https://aioxsuite.com">
+  <img src="https://aioxsuite.com/badge/adopter.svg" alt="AIOX Adopter" />
 </a>
 ```
 
 **Since Badge:**
 ```html
-<a href="https://aiox.io">
-  <img src="https://aiox.io/badge/adopter-since-2025.svg" alt="AIOX Adopter Since 2025" />
+<a href="https://aioxsuite.com">
+  <img src="https://aioxsuite.com/badge/adopter-since-2025.svg" alt="AIOX Adopter Since 2025" />
 </a>
 ```
 
 **Powered By Badge:**
 ```html
-<a href="https://aiox.io">
-  <img src="https://aiox.io/badge/powered-by-aiox.svg" alt="Powered by AIOX" />
+<a href="https://aioxsuite.com">
+  <img src="https://aioxsuite.com/badge/powered-by-aiox.svg" alt="Powered by AIOX" />
 </a>
 ```
 
@@ -201,7 +201,7 @@ Show you're an AIOX adopter! Add this badge to your site:
 
 Want to be removed? No problem:
 1. Submit PR removing your entry, or
-2. Email hello@aiox.io
+2. Email hello@aioxsuite.com
 
 We'll remove it within 48 hours.
 
@@ -238,9 +238,9 @@ Last updated: November 10, 2025
 
 ## Questions?
 
-- **General questions:** [GitHub Discussions](https://github.com/aiox-standard/specification/discussions)
-- **Submission issues:** Open an issue or email hello@aiox.io
-- **Badge questions:** Email hello@aiox.io
+- **General questions:** [GitHub Discussions](https://github.com/aiox-suite/specification/discussions)
+- **Submission issues:** Open an issue or email hello@aioxsuite.com
+- **Badge questions:** Email hello@aioxsuite.com
 
 ---
 
