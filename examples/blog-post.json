@@ -1,0 +1,80 @@
+{
+  "@context": "https://aioxsuite.com/context/v1",
+  "@type": "AIOX.Badge",
+  "@id": "https://example.com/blog/getting-started-with-aiox/#aiox-badge",
+  "version": "1.0.0",
+  "processingMethod": "openai-gpt4",
+  "processedAt": "2025-11-10T14:19:31+00:00",
+  "content": {
+    "@type": "AIOX.ContentMetadata",
+    "url": "https://example.com/blog/getting-started-with-aiox/",
+    "title": "Getting Started with AIOX: A Complete Guide",
+    "summary": "Learn how to implement AIOX, the open standard for AI-ready content metadata, on your website in just 5 minutes. This comprehensive guide covers installation, configuration, and best practices for making your content AI-friendly.",
+    "intent": "instructional",
+    "tone": "casual",
+    "orientation": "second_person",
+    "domain": "Technology",
+    "utility": "how_to",
+    "targetAudience": "intermediate",
+    "narrativeType": "guide",
+    "mediaType": "text_heavy",
+    "geolocationSensitivity": "global",
+    "marketSegments": [
+      "b2c",
+      "b2b",
+      "education"
+    ]
+  },
+  "qaData": {
+    "@type": "AIOX.QuestionAnswerSet",
+    "totalPairs": 5,
+    "pairs": [
+      {
+        "@type": "AIOX.QAPair",
+        "id": "qa-1",
+        "question": "What is AIOX?",
+        "answer": "AIOX is an open standard for AI-optimized content metadata that helps AI systems like ChatGPT, Claude, and Gemini better understand your web content beyond what Schema.org provides.",
+        "confidence": 0.98,
+        "source": "ai_extraction"
+      },
+      {
+        "@type": "AIOX.QAPair",
+        "id": "qa-2",
+        "question": "How is AIOX different from Schema.org?",
+        "answer": "AIOX provides 13+ AI-specific metadata properties including content intent, tone, target audience, and confidence scores, while Schema.org focuses primarily on search engine optimization with basic properties.",
+        "confidence": 0.95,
+        "source": "ai_extraction"
+      },
+      {
+        "@type": "AIOX.QAPair",
+        "id": "qa-3",
+        "question": "How long does it take to implement AIOX?",
+        "answer": "Basic AIOX implementation takes about 5 minutes. You simply add a JSON-LD script tag to your webpage with required properties like URL, title, and metadata.",
+        "confidence": 0.92,
+        "source": "ai_extraction"
+      },
+      {
+        "@type": "AIOX.QAPair",
+        "id": "qa-4",
+        "question": "Is AIOX compatible with Schema.org?",
+        "answer": "Yes, AIOX is designed to work alongside Schema.org, not replace it. You can include both AIOX and Schema.org markup on the same page for maximum compatibility.",
+        "confidence": 0.96,
+        "source": "ai_extraction"
+      },
+      {
+        "@type": "AIOX.QAPair",
+        "id": "qa-5",
+        "question": "Do I need to pay to use AIOX?",
+        "answer": "No, the AIOX specification is completely free and open source under CC BY 4.0 license. Free WordPress plugins are available, and there are commercial tools for advanced features.",
+        "confidence": 0.97,
+        "source": "ai_extraction"
+      }
+    ]
+  },
+  "manifesto": {
+    "@type": "AIOX.ManifestoReference",
+    "url": "https://example.com/.well-known/aiox.jsonc",
+    "version": "1.0",
+    "description": "Publisher policies and content structure for Example Blog"
+  }
+}
