@@ -69,13 +69,13 @@ Add AIOX to your webpage in 30 seconds:
 
 ### For WordPress
 
-- **[AIOX Publisher Suite](https://wordpress.org/plugins/aiox-suite/)** (Free)
+- **[AIOX Suite](https://wordpress.org/plugins/aiox-suite/)** (Free)
   - AI crawler analytics
   - Basic AIOX metadata
   - Badge display
   - Schema.org compatibility
 
-- **[AIOX Publisher Suite Pro](https://aioxsuite.com)** (Commercial)
+- **[AIOX Suite Pro](https://aioxsuite.com)** (Commercial)
   - Full 13+ metadata properties
   - AI processing (OpenAI, Gemini, Claude)
   - Q&A generation with confidence scores
