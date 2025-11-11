@@ -81,7 +81,7 @@ Add AIOX to your webpage in 30 seconds:
   - Q&A generation with confidence scores
   - Custom manifesto configuration
   - Priority support
-  - AI Forensics™ Tool
+  - AI Ranking Tool
 
 ### For Developers
 
